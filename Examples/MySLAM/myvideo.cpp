@@ -19,7 +19,7 @@ using namespace std;
 // 参数文件与字典文件
 // 如果你系统上的路径不同，请修改它
 string parameterFile = "./myvideo.yaml";
-string vocFile = "./Vocabulary/ORBvoc.txt";
+string vocFile = "../../Vocabulary/ORBvoc.txt";
 
 // 视频文件
 string videoFile = "./myvideo.mp4";
